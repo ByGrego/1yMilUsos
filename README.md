@@ -1,0 +1,2 @@
+# 1yMilUsos
+Ofrecer las bases capacitadoras para manejar e interpretar planos de cimientos y saneamiento. Describir los tipos de cimentaciones y las características de las mismas. Presentar los tipos de excavaciones y las características de las mismas. Ofrecer un acercamiento a las características, tipos y uso del hormigón, así como su puesta en obra. Acercar a las bases técnicas necesarias para la construcción e intervención en cimientos y saneamientos.
